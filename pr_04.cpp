@@ -1,4 +1,4 @@
-// 8 LEDs ligados sequencialmente da direita para a esquerda 1 DE CADA VEZ
+// 8 LEDs ligados sequencialmente da direita para a esquerda 1 DE CADA VEZ.
 
 void turnOffLeds(char id) {
   if(id == 'D') {
