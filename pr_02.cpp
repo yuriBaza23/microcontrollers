@@ -10,7 +10,7 @@ void loop()
 {
   PORTD ^= (1<<DDD6);
   delay(300);
-  PORTD ^= (1<<DDB7);
+  PORTD ^= (1<<DDD7);
   delay(300);
   PORTB ^= (1<<DDB0);
   delay(300);
