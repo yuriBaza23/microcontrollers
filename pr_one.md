@@ -15,4 +15,4 @@ O GND é passado para a catódica dos LEDs. GND é usado como um ponto de refer�
 O anodo dos LEDs estão conectados aos pinos 13 e 11. Como a corrente pode fazer com que os LEDs queimem, foram usados resistores nos fios que conectam o pino e o LED.
 
 ### Links
-[TinkerCad do Circuito](https://www.tinkercad.com/things/bsjLAqTS5xW?sharecode=I5ZfLnqxp0sRw4sW0LJ3jRHE5k4K1ZidMw0ROEpmedY)
+[TinkerCad do Circuito](https://www.tinkercad.com/things/bsjLAqTS5xW?sharecode=I5ZfLnqxp0sRw4sW0LJ3jRHE5k4K1ZidMw0ROEpmedY).
