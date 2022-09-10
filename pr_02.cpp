@@ -1,4 +1,4 @@
-// C++ code
+// 8 LEDs ligados sequencialmente da esuqerda para a direita
 
 void setup() {
 	DDRB |= (1<<DDB0) | (1<<DDB1) | (1<<DDB2) | 
