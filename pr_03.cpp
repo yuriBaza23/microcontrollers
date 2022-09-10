@@ -22,7 +22,7 @@ void loop()
   delay(300);
   PORTD ^= (1<<DDD7);
   delay(300);
-  PORTD ^= (1<<DDB6);
+  PORTD ^= (1<<DDD6);
   delay(300);
   PORTB = 0;
   PORTD = 0;
